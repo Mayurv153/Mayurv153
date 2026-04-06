@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mayur Vaidya
 
-🚀 Production Engineering Student | AI/ML Enthusiast | Python Developer  
+🚀  Engineering Student | AI/ML Enthusiast | Python Developer  
 
 ---
 
