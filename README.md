@@ -29,10 +29,11 @@
 ---
 
 ## 🛠️ Skills
-- Python 🐍  
+- Python 🐍
+- JavaScript
 - C/C++  
 - Java (Learning)  
-- React, Node.js  
+- React, Node.js ,Nextjs 
 - Git & GitHub  
 
 ---
@@ -43,7 +44,10 @@
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: (add your link)
-- Email: (add your email)
+- LinkedIn: https://www.linkedin.com/in/mayurv9/
+- Email: mayur.vaidya.2112@gmail.com
+- website: https://www.mvwebservice.tech/
+- Portfolio website: https://client-liard-phi.vercel.app/
+- Phone No.: 9021891120
 
 ---
