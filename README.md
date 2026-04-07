@@ -70,8 +70,8 @@
 ## 📈 Developer Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mayurv153&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF" height="192px" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayurv153&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF" height="192px" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mayurv153&theme=tokyonight" height="192px" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mayurv153&theme=tokyonight" height="192px" alt="Top Languages"/>
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayurv153&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakNum=ffffff" alt="GitHub Streak"/>
 </div>
@@ -94,7 +94,7 @@
     <img src="https://img.shields.io/badge/Portfolio_Matrix-39E09B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <br/><br/>
-  📱 **Comlink:** `+91-9021891120`
+  📱 Phone: `+91-9021891120`
 </div>
 
 <br/>
