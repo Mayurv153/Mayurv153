@@ -61,6 +61,9 @@
 | **[AI Stock Analysis Agent](https://github.com/Mayurv153)** | An intelligent system designed to provide real-time stock insights and predictive analytics. | `Python`, `Machine Learning`, `Data Science` |
 | **[Habit Tracker App](https://github.com/Mayurv153)** | A sleek, full-stack productivity tool to track daily routines and build atomic habits. | `React`, `Node.js`, `Express`, `MongoDB` |
 | **[Python Learning Journey](https://github.com/Mayurv153/Python-Learning)** | My interactive ledger of mastering Python from basic structures to advanced OOP and ML. | `Python`, `Jupyter Notebooks` |
+| **[Portfolio-Animated](https://github.com/Mayurv153/Portfolio-Aimated.git)** | My Personal Animated Portfolio. | `JavaScript`, `React`, `GSAP`, `Node.js` |
+| **[Employee-Management-System](https://github.com/Mayurv153/Employee-Management-System.git)** | A modern, full-stack Employee Management System. | `MongoDB`, `Express.js`, `React.js`, `Node.js`, `TailwindCSS` |
+
 
 <br/>
 
